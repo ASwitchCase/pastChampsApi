@@ -1,0 +1,33 @@
+{
+    "seasons":[
+        {
+            "year":2023,
+            "champion":"Denver Nuggets",
+            "MVP":"Nikola Jokic"
+        },
+
+        {
+            "year":2022,
+            "champion":"Golden State Warriors",
+            "MVP":"Stephen Curry"
+        },
+
+        {
+            "year":2021,
+            "champion":"Milwakee Bucks",
+            "MVP":"Giannis Antetokounmpo"
+        },
+
+        {
+            "year":2020,
+            "champion":"Los Angeles Lakers",
+            "MVP":"Lebron James"
+        },
+
+        {
+            "year":2019,
+            "champion":"Toranto Rapotors",
+            "MVP":"Kawhi Leonard"
+        }
+    ]
+}
